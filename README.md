@@ -12,7 +12,7 @@ The project covers data preprocessing, forecasting, optimization, and backtestin
 
 ---
 
-## Project Structure
+## task-1 summary 
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
